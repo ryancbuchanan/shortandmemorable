@@ -1,0 +1,2 @@
+# shortandmemorable
+repository for stuff 
